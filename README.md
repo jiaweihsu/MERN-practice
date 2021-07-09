@@ -1,4 +1,4 @@
-# MERN Practice
+# My MERN Practice 
 
 Mongo + Fastify + React + Node
 
